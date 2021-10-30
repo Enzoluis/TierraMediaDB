@@ -1,0 +1,11 @@
+Turismo de la Tierra Media
+
+Usuario: Sam
+Preferencias: DEGUSTACION
+
+ITINERARIO:
+Visitas: 
+	La Comarca
+	Bosque Negro
+
+Costo Total: 10,5 monedas de Oro | TiempoTotal: 6.0 horas.

@@ -1,0 +1,5 @@
+Absoluta;DEGUSTACION;2;Lothlorien;La Comarca;36;
+Porcentual;AVENTURA;2;Bosque Negro;Mordor;20
+AxB;PAISAJE;3;Erebor;Minas Tirith;Abismo de Helm
+Absoluta;DEGUSTACION;2;Lothlorien;La Comarca;36
+AxB;PAISAJE;3;Erebor;Minas Tirith;La Comarca

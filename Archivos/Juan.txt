@@ -1,0 +1,15 @@
+Turismo de la Tierra Media
+
+Usuario: Juan
+Preferencias: PAISAJE
+
+ITINERARIO:
+Visitas: 
+	Promocion: Erebor | Minas Tirith | Abismo de Helm | 
+Costo: 5,5 monedas de oro | Tiempo total de visitas: 22.0
+	Promocion: Erebor | Minas Tirith | La Comarca | 
+Costo: 5,5 monedas de oro | Tiempo total de visitas: 20.0
+	Minas Tirith
+	La Comarca
+
+Costo Total: 20 monedas de Oro | TiempoTotal: 50.0 horas.

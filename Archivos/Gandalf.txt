@@ -1,0 +1,10 @@
+Turismo de la Tierra Media
+
+Usuario: Gandalf
+Preferencias: PAISAJE
+
+ITINERARIO:
+Visitas: 
+	Bosque Negro
+
+Costo Total: 4 monedas de Oro | TiempoTotal: 3.0 horas.

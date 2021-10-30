@@ -1,0 +1,11 @@
+Turismo de la Tierra Media
+
+Usuario: Eowyn
+Preferencias: AVENTURA
+
+ITINERARIO:
+Visitas: 
+	La Comarca
+	Minas Tirith
+
+Costo Total: 9 monedas de Oro | TiempoTotal: 8.0 horas.
